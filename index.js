@@ -3,7 +3,7 @@ const app = express();
 
 app.get("/", (req, res) => {
     res.send(`
-    <h1>Hello from the Cloud ☁️</h1>
+    <h1>Hello from the Srimatha 💖</h1>
     <p>Server running on Node.js</p>
     <p>Time: ${new Date()}</p>
   `);
